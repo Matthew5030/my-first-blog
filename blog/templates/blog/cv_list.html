@@ -1,0 +1,12 @@
+{% extends 'blog/base.html' %}
+{% block content %}
+    {% for cv in cvs %}
+        <div class="cv">
+            <div class="date">
+                {{ post.published_date }}
+            </div>
+            <h2><a href="{% url 'cv_detail' pk=cv.pk %}">{{ cv.title }}</a></h2>
+            <p>{{ cv.textProfile|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+{% endblock %}

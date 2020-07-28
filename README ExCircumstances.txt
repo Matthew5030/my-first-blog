@@ -1,0 +1,3 @@
+README Ð PART2 Extenuating CircumstancesI have spent many many days working on part two and I have had many issues with selenium and versions while also being in and out of hospital getting treated over quarantine. I have put my CV up and have got the file structure setup but it has not been fully developed with TDD.I have already discussed with Harish (My personal tutor) and we have agreed that the second section will be waived due to my circumstances. I have added all of the progress I have done so far. 
+
+Harish and have agreed this will be enough work to pass the bridging coursework and allow progress to year 3. This was all discussed in the Tripartite meeting between Katherine Bond, myself and Harish on Monday the 27th of July.
